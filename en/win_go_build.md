@@ -1,1 +1,0 @@
-Need to create a wiki page with instructions for windows Go

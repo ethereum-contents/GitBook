@@ -1,1 +1,0 @@
-#Caratteristiche di Serpent
